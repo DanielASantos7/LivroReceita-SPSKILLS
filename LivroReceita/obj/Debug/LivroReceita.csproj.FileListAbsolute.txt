@@ -1,0 +1,350 @@
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.csproj.AssemblyReference.cache
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Properties.Resources.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.Cards.UCCardReceita.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmCadastro.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmLogin.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmTelaPrincipal.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.ViewsIntroducao.FrmIntroducao1.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.csproj.GenerateResource.cache
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\imagem_padrao.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\apple.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\avocado.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\bacon.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\banana.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\basil.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\bitter herba mystica.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\blackberry.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\butter.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cabbage.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cheese.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cherry tomatoes.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cherry tortilla.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\chili sauce.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\chorizo.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cream cheese.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\cucumber.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\curry powder.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\egg.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\flavour.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\fried fillet.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\green bell pepper.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\ham.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\hamburguer.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\herbed sausage.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\horseradish.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\jalapeno.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\jam.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\ketchup.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\kiwi.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\klawf stick.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\lettuce.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\marmelade.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\mayonnaise.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\milk.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\mustard.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\noodles.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\olive oil.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\onion.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\peanut butter.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\pepper.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\pickle.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\pineapple.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\potato salad.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\prosciutto.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\red bell pepper.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\red onion.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\rice.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\salt.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\salty herba mystica.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\slice bread.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\smoked fillet.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\sodium citrate.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\sour herba mystica.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\spicy herba mystica.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\strawberry.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\sucralose.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\sugar.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\sweet herba mystica.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\taco.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\tofu.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\tomato.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\tomatos.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\vinegar.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\wasabi.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\water.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\watercress.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\whipped cream.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\whole milk.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\yellow bell pepper.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\ingredientes\yogurt.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\1.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\10.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\100.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\101.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\102.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\103.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\104.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\105.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\106.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\107.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\108.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\109.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\11.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\110.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\111.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\112.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\113.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\114.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\115.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\116.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\117.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\118.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\119.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\12.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\120.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\121.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\122.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\123.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\124.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\125.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\126.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\127.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\128.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\129.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\13.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\130.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\131.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\132.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\133.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\134.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\135.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\136.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\137.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\138.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\139.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\14.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\140.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\141.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\142.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\143.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\144.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\145.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\146.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\147.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\148.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\149.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\15.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\150.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\151.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\16.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\17.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\18.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\19.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\2.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\20.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\21.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\22.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\23.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\24.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\25.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\26.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\27.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\28.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\29.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\3.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\30.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\31.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\32.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\33.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\34.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\35.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\36.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\37.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\38.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\39.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\4.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\40.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\41.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\42.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\43.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\44.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\45.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\46.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\47.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\48.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\49.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\5.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\50.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\51.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\52.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\53.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\54.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\55.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\56.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\57.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\58.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\59.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\6.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\60.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\61.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\62.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\63.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\64.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\65.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\66.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\67.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\68.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\69.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\7.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\70.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\71.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\72.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\73.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\74.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\75.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\76.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\77.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\78.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\79.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\8.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\80.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\81.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\82.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\83.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\84.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\85.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\86.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\87.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\88.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\89.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\9.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\90.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\91.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\92.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\93.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\94.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\95.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\96.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\97.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\98.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\meal images\99.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\salvarChecked.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\1.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\10.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\2.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\3.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\4.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\5.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\6.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\7.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\8.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\users recipes images\9.jpg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\Carinha.jpeg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\cancelar.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\olho.png
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Resources\Carinha1.jpeg
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\LivroReceita.exe.config
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\LivroReceita.exe
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\LivroReceita.pdb
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\EntityFramework.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Buffers.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Memory.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\EntityFramework.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroRec.E28B2457.Up2Date
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.exe
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.pdb
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmReceitasSalvas.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.Cards.UCCardIngredienteReceita.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.Cards.UCCardProcedimentoReceita.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmDetalheReceita.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.Cards.UCCardPerfilAlimentar.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.FrmPerfilAlimentar.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.ViewsIntroducao.FrmIntroducao2.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.ViewsIntroducao.FrmIntroducao3.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.Views.ViewsIntroducao.FrmIntroducao4.resources
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\LivroReceita.exe.manifest
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\LivroReceita.application
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.exe.manifest
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.application
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\README.md
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.csproj.SuggestedBindingRedirects.cache
+C:\Users\Instrutor\Desktop\Treinamento\ProvasSuzano\sessao1.v2\LivroReceita\obj\Debug\LivroReceita.exe.config

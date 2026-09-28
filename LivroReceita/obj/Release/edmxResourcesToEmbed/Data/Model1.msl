@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbLivroReceitaModelStoreContainer" CdmEntityContainer="dbLivroReceita">
+    <EntitySetMapping Name="Ingrediente">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.Ingrediente">
+        <MappingFragment StoreEntitySet="Ingrediente">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="ItemTipoID" ColumnName="ItemTipoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IngredientesReceita">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.IngredientesReceita">
+        <MappingFragment StoreEntitySet="IngredientesReceita">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ReceitaID" ColumnName="ReceitaID" />
+          <ScalarProperty Name="IngredienteID" ColumnName="IngredienteID" />
+          <ScalarProperty Name="qtdGramas" ColumnName="qtdGramas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NotaReceita">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.NotaReceita">
+        <MappingFragment StoreEntitySet="NotaReceita">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ReceitaID" ColumnName="ReceitaID" />
+          <ScalarProperty Name="UsuarioID" ColumnName="UsuarioID" />
+          <ScalarProperty Name="nota" ColumnName="nota" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Perfil">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.Perfil">
+        <MappingFragment StoreEntitySet="Perfil">
+          <ScalarProperty Name="idPerfil" ColumnName="idPerfil" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="idIngrediente" ColumnName="idIngrediente" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProcedimentoReceitas">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.ProcedimentoReceitas">
+        <MappingFragment StoreEntitySet="ProcedimentoReceitas">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="userRecipeID" ColumnName="userRecipeID" />
+          <ScalarProperty Name="step" ColumnName="step" />
+          <ScalarProperty Name="stepSequence" ColumnName="stepSequence" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReceitaFavorira">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.ReceitaFavorira">
+        <MappingFragment StoreEntitySet="ReceitaFavorira">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UsuarioID" ColumnName="UsuarioID" />
+          <ScalarProperty Name="ReceitaID" ColumnName="ReceitaID" />
+          <ScalarProperty Name="saved" ColumnName="saved" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoReceita">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.TipoReceita">
+        <MappingFragment StoreEntitySet="TipoReceita">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TiposItem">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.TiposItem">
+        <MappingFragment StoreEntitySet="TiposItem">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="senha" ColumnName="senha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsuarioReceita">
+      <EntityTypeMapping TypeName="dbLivroReceitaModel.UsuarioReceita">
+        <MappingFragment StoreEntitySet="UsuarioReceita">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="UsuarioID" ColumnName="UsuarioID" />
+          <ScalarProperty Name="NomeReceita" ColumnName="NomeReceita" />
+          <ScalarProperty Name="TipoReceitaID" ColumnName="TipoReceitaID" />
+          <ScalarProperty Name="TempoMinutos" ColumnName="TempoMinutos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

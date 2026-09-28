@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LivroReceita||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|c:\\users\\instrutor\\desktop\\treinamento\\provassuzano\\sessao1.v2\\livroreceita\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1897F2-BD9E-4882-BB60-16F14A35D404}|LivroReceita.csproj|c:\\users\\instrutor\\desktop\\treinamento\\provassuzano\\sessao1.v2\\livroreceita\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-25T16:49:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroReceita",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\LivroReceita.csproj",
+              "RelativeDocumentMoniker": "LivroReceita.csproj",
+              "ToolTip": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\LivroReceita.csproj",
+              "RelativeToolTip": "LivroReceita.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-25T13:32:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:28:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Instrutor\\Desktop\\Treinamento\\ProvasSuzano\\sessao1.v2\\LivroReceita\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-25T13:25:32.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
